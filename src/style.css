@@ -1,0 +1,177 @@
+body {
+  background: #fff;
+  color: black;
+}
+
+div#box {
+  padding: 25px;
+  background: #fff;
+}
+
+#logout{
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  font-family: arial, sans-serif;
+  color: #551A8B;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.heading {
+  background: #fff;
+  text-align: center;
+  color: slategray;
+}
+
+div#menu {
+  background-color: tan;
+  color: #fff;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: left;
+}
+
+div#menu ul li{
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div#menu ul li#left {
+  float: right;
+  margin-right: 5px;
+  width: 5%;
+}
+
+div#menu ul li:hover {
+  background-color: white;
+}
+
+div#container {
+  width: auto;
+  height: auto;
+  text-align: left;
+  color: black;
+}
+
+div#login-box {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 10px;
+}
+
+label {
+  padding: 10px;
+}
+
+div#name {
+  padding: 5px;
+}
+
+div#sub {
+  padding: 5px;
+}
+
+div#row{
+  float: left;
+}
+
+ul#row li{
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  margin: 10px;
+}
+div#box-items {
+  width: 100%;
+  text-align: center;
+}
+
+div#box-container {
+  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: inline;
+}
+
+.card button {
+  border: none;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  cursor: pointer;
+  width: 100%;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.value-button {
+  display: inline-block;
+  border: 1px solid #ddd;
+  margin: 0px;
+  width: 40px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 11px 0;
+  background: #eee;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.value-button:hover {
+  cursor: pointer;
+}
+
+.total {
+  float: right;
+  margin-right: 410px;
+}
+.divmd{
+  margin-left: 70px;
+}
+
+#table {
+  display: table;
+  width: 100%;
+}
+#trow {
+  display: table-row;
+}
+#left{
+  display: table-cell;
+  width:20%;
+}
+#middle{
+  display: table-cell;
+  width:40%;
+}
+#middle #md1,#md2,#md3{
+  width:10%;
+  display: table-cell;
+}
+#right{
+  width: 30%;
+  display: table-cell;
+}
+#right #md1{
+  width: 10%;
+  display: table-cell;
+}
+#middle #md3 input{
+  text-align: center;
+  margin: 0px;
+  width: 40px;
+  height: 15px;
+}
