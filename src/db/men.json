@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "product": "Shirt",
+    "img": "../images/men/1.jpeg",
+    "unitcost": 300,
+    "quantity": 5
+  },
+  {
+    "id": 2,
+    "product": "U-neck Shirt",
+    "img": "../images/men/2.jpeg",
+    "unitcost": 800,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "product": "T-shirt",
+    "img": "../images/men/3.jpeg",
+    "unitcost": 500,
+    "quantity": 5
+  },
+  {
+    "id": 4,
+    "product": "Coat",
+    "img": "../images/men/4.jpeg",
+    "unitcost": 2500,
+    "quantity": 5
+  },
+  {
+    "id": 5,
+    "product": "Suite",
+    "img": "../images/men/5.jpeg",
+    "unitcost": 5000,
+    "quantity": 5
+  }
+]

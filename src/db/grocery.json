@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "product": "Ghee 500gm",
+    "img": "../images/grocery/ghee.jpeg",
+    "unitcost": 500
+  },
+  {
+    "id": 2,
+    "product": "DairyMilk 100gm",
+    "img": "../images/grocery/dairymilk.jpeg",
+    "unitcost": 50,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "product": "Ginger 100gm",
+    "img": "../images/grocery/ginger.jpeg",
+    "unitcost": 80,
+    "quantity": 5
+  },
+  {
+    "id": 4,
+    "product": "Milk 500ml",
+    "img": "../images/grocery/milk.jpeg",
+    "unitcost": 47,
+    "quantity": 5
+  },
+  {
+    "id": 5,
+    "product": "Tomato 1kg",
+    "img": "../images/grocery/tomato.jpeg",
+    "unitcost": 40,
+    "quantity": 5
+  }
+]

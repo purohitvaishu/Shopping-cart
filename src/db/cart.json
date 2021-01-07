@@ -1,0 +1,10 @@
+{
+  "cart": [
+    {
+      "product": "pulower",
+      "quantity": 1,
+      "unitcost": 300,
+      "img": "../images/women/3.jpeg"
+    }
+  ]
+}

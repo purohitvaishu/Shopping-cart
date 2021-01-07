@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "product": "Coat",
+    "img": "../images/women/1.jpeg",
+    "unitcost": 300,
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "product": "Dress",
+    "img": "../images/women/2.jpeg",
+    "unitcost": 800,
+    "quantity": 10
+  },
+  {
+    "id": 3,
+    "product": "Pulower",
+    "img": "../images/women/3.jpeg",
+    "unitcost": 500,
+    "quantity": 10
+  },
+  {
+    "id": 4,
+    "product": "Boot",
+    "img": "../images/women/4.jpeg",
+    "unitcost": 3000,
+    "quantity": 10
+  },
+  {
+    "id": 5,
+    "product": "Flowerprint Dress",
+    "img": "../images/women/5.jpeg",
+    "unitcost": 500,
+    "quantity": 10
+  }
+]
